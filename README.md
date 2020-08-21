@@ -1,2 +1,2 @@
 # Persistent_Homology
-Examples of application of Persistent Homology
+Examples of applications of Persistent Homology
