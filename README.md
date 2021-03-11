@@ -1,2 +1,2 @@
 # Persistent Homology
-Introduction and applications to Persistent Homology.
+Introduction and applications of Persistent Homology.
